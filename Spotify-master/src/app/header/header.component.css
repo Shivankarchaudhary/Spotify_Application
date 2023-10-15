@@ -1,0 +1,15 @@
+#p{
+    background-color: rgb(0, 0, 0);
+    color: rgb(232, 164, 101);
+}
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  #span{
+    font-size: 40px;
+  }
+  .back{
+    background-color:red;
+    position: fixed;
+    padding-top: 1%;
+  }

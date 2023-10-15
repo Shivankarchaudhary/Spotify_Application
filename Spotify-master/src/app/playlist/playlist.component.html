@@ -1,0 +1,39 @@
+<div class="container1">
+<div class="container">
+    <div class="row">
+      <h1 style="text-decoration: solid;">PLAYLIST</h1>
+      <div class="col-lg-3 m-4  p-3 mb-5 bg-black rounded"   *ngFor="let track of song" >
+        <mat-card class="example-card">
+           <div >
+            <img src="../../assets/photo/{{track.imageurl}}.jpg">
+
+             <h1><b>{{track.songName}}</b></h1>
+              <h3>{{track.artistName}}</h3>
+              <h3>{{track.genre}}</h3>
+              <button (click)="Play()">play</button>
+              <button (click)="deletesong(track.songId)">delete</button>
+
+            </div>
+        </mat-card>
+      </div>
+  </div>
+</div>
+</div>
+
+
+<!-- <div class="container">
+  <div class="row">
+    <div class="col-lg-3 m-2  p-3 mb-5 bg-white rounded"   *ngFor="let track of playList" >
+      <mat-card class="example-card">
+         <div >
+           <h1><b>{{track.songName}}</b></h1>
+            <h3>{{track.artistName}}</h3>
+            <h3>{{track.genre}}</h3>
+
+          </div>
+      </mat-card>
+    </div>
+</div>
+</div>
+   -->
+

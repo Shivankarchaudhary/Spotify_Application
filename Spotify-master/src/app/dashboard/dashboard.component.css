@@ -1,0 +1,24 @@
+mat-card-title{
+
+    text-align: center;
+}div{
+
+    text-align: center;
+}
+a
+{
+  text-decoration: none;
+  color: black;
+}
+img{
+  height:200px;
+  width: 220px;
+}
+.container1{
+  background-color:rgb(11, 141, 184);
+  width: 100%;
+  height: full;
+  margin-top: -1%;
+  padding-top: 6%;
+
+}

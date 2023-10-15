@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Desktop\rishabh_Spring_boot_basic\SpotifyBE-master\SpotifyService\src\main\java\com\example\SpotifyService\SpotifyServiceApplication.java
+C:\Users\DELL\OneDrive\Desktop\rishabh_Spring_boot_basic\SpotifyBE-master\SpotifyService\src\main\java\com\example\SpotifyService\repository\UserRepository.java
+C:\Users\DELL\OneDrive\Desktop\rishabh_Spring_boot_basic\SpotifyBE-master\SpotifyService\src\main\java\com\example\SpotifyService\repository\SongRepository.java
+C:\Users\DELL\OneDrive\Desktop\rishabh_Spring_boot_basic\SpotifyBE-master\SpotifyService\src\main\java\com\example\SpotifyService\filter\JwtFilter.java
+C:\Users\DELL\OneDrive\Desktop\rishabh_Spring_boot_basic\SpotifyBE-master\SpotifyService\src\main\java\com\example\SpotifyService\exception\UserAlreadyFoundException.java
+C:\Users\DELL\OneDrive\Desktop\rishabh_Spring_boot_basic\SpotifyBE-master\SpotifyService\src\main\java\com\example\SpotifyService\exception\SongNotFoundException.java
+C:\Users\DELL\OneDrive\Desktop\rishabh_Spring_boot_basic\SpotifyBE-master\SpotifyService\src\main\java\com\example\SpotifyService\service\UserService.java
+C:\Users\DELL\OneDrive\Desktop\rishabh_Spring_boot_basic\SpotifyBE-master\SpotifyService\src\main\java\com\example\SpotifyService\service\UserServiceImpl.java
+C:\Users\DELL\OneDrive\Desktop\rishabh_Spring_boot_basic\SpotifyBE-master\SpotifyService\src\main\java\com\example\SpotifyService\exception\SongAlredyFoundException.java
+C:\Users\DELL\OneDrive\Desktop\rishabh_Spring_boot_basic\SpotifyBE-master\SpotifyService\src\main\java\com\example\SpotifyService\proxy\UserProxy.java
+C:\Users\DELL\OneDrive\Desktop\rishabh_Spring_boot_basic\SpotifyBE-master\SpotifyService\src\main\java\com\example\SpotifyService\domain\User.java
+C:\Users\DELL\OneDrive\Desktop\rishabh_Spring_boot_basic\SpotifyBE-master\SpotifyService\src\main\java\com\example\SpotifyService\exception\UserNotFoundException.java
+C:\Users\DELL\OneDrive\Desktop\rishabh_Spring_boot_basic\SpotifyBE-master\SpotifyService\src\main\java\com\example\SpotifyService\domain\Song.java
+C:\Users\DELL\OneDrive\Desktop\rishabh_Spring_boot_basic\SpotifyBE-master\SpotifyService\src\main\java\com\example\SpotifyService\controller\UserController.java

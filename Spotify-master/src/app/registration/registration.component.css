@@ -1,0 +1,16 @@
+form{
+   text-align: center;
+}mat-form-field{
+    width: 300px;
+}
+.form{
+  text-align: center;
+background-color:rgb(11, 141, 184);
+width: 100%;
+height: full;
+margin-top: -1%;
+padding-top: 10%;
+}
+::placeholder{
+  color:white;
+}
